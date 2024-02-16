@@ -1,12 +1,5 @@
-Goal : Minimize the overall effort movement during every phase of renovation.
-Phase 0 = current office configuration
-=> Phase 5
+# Projet d'optimisation effectué dans le cadre du Master 1 Informatique, Décision, Données de Dauphine.
 
-office = same size
-distances not taken into account
-LAMSADE, MIDO, students associations and Presidency
-Graph 1 : Phase 1 = Phase 5, manage to reach Phase 5
-1 office per entity
-Graph 2 : different offices per entity
-Phase 1 != Phase 5
-The number of offices remains constant.
+Objectif : Organiser le mouvement du personnel durant les phases de rénovation de telle sorte à minimiser le nombre de déplacements au total, et à arriver à une affectation finale des bureaux.
+
+Pour plus d'informations sur le projet, cliquez [ici](https://www.lamsade.dauphine.fr/%7Ecroyer/ensdocs/CMO/ProjectCMO.pdf).
